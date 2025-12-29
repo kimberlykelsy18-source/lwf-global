@@ -1,0 +1,10 @@
+Please add the following images to this assets/ folder:
+- hero-pyramids.jpg
+- hero-transition-1.jpg
+- hero-transition-2.jpg
+- card1.jpg
+- card2.jpg
+- card3.jpg
+- card4.jpg
+
+(These images were provided by the user and should be uploaded here.)
