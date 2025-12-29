@@ -1,10 +1,13 @@
-Please add the following images to this assets/ folder:
-- hero-pyramids.jpg
-- hero-transition-1.jpg
-- hero-transition-2.jpg
-- card1.jpg
-- card2.jpg
-- card3.jpg
-- card4.jpg
+Please find the uploaded image assets in the assets/ folder. Current filenames:
+- hero-pyramids.png
+- hero-transition-1.png
+- hero-transition-2.png
+- Quick Facts.png
+- Who should attend.png
+- What to expect.png
+- Language & Accessability.png
+- Regional Focus -1.png
+- Regional Focus - 3.png
+- Regional Focus -4.png
 
-(These images were provided by the user and should be uploaded here.)
+These images are already in the repository; index.html has been updated to reference them.
