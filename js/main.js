@@ -3,7 +3,7 @@
   const slides = Array.from(document.querySelectorAll('.slide'));
   let current = 0;
   const slideCount = slides.length;
-  const AUTO_DELAY = 6000;
+  const AUTO_DELAY = 3000;
 
   function show(index){
     slides.forEach((s,i)=>{
